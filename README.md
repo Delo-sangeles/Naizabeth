@@ -2,8 +2,9 @@
 ### Hey there 
 # ¡Hola! Soy Naizabeth 👋 
 
-### 🌟 Desarrolladora Web & Apasionada por problemas complejos
-Me considero una persona curiosa y constante, enfocada en crear soluciones digitales que sean visualmente atractivas y funcionalmente útiles. Actualmente, estoy combinando el mundo del **Desarrollo Frontend** con el **Análisis de Datos** e **Inteligencia artificial**.
+### 🌟 ##AI Developer & Full-Stack Software Engineer
+A developer passionate about solving highly complex technical problems and software architecture. 
+Currently, I focus on the convergence of modern web development and machine learning, creating solutions that are not only visually appealing but also data-driven.
 
 ---
 
@@ -12,6 +13,15 @@ Me considero una persona curiosa y constante, enfocada en crear soluciones digit
 * 🥗 **Proyecto Inteligencia artificial:** Entrenando modelos IA  
 * 📊 **Data Science:** Realizando análisis exploratorios de datos (EDA) con Python para identificar tendencias de salud pública.
 * 🎓 **Aprendizaje continuo:** Explorando nuevas formas de conectar el código con la inteligencia artificial y la ciencia de datos.
+
+* 🚀 Enfoque Actual y Desarrollo
+* 🧠 **IA & Deep Learning** Architecting and optimizing supervised learning models, with a special focus on fine-tuning and efficiency improvement
+
+📈 **Advanced Data Science** Ejecutando análisis exploratorios de datos (EDA) complejos y Feature Engineering con Python para extraer insights predictivos en sectores estratégicos.
+
+🌐 **Intelligent Web Apps** Running complex exploratory data analysis (EDA) and feature engineering with Python to extract predictive insights in strategic sectors.
+
+🔬 **R&D (Investigación y Desarrollo)** Exploring the state of the art (SOTA) in neural network architectures to reduce the gap between theoretical research and production implementation.
 
 ---
 
@@ -22,6 +32,10 @@ Me considero una persona curiosa y constante, enfocada en crear soluciones digit
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| ![PyMC](https://img.shields.io/badge/PyMC-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB) 
+| ![ArviZ](https://img.shields.io/badge/ArviZ-4E9A06?style=for-the-badge&logo=analytics&logoColor=white) 
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+| ![Polars](https://img.shields.io/badge/Polars-CD7F32?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
