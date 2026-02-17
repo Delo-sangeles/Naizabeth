@@ -8,11 +8,6 @@ Currently, I focus on the convergence of modern web development and machine lear
 
 ---
 
-## 🚀 Lo que estoy haciendo actualmente
-* 💻 **Desarrollo Web:** React
-* 🥗 **Proyecto Inteligencia artificial:** Entrenando modelos IA  
-* 📊 **Data Science:** Realizando análisis exploratorios de datos (EDA) con Python para identificar tendencias de salud pública.
-* 🎓 **Aprendizaje continuo:** Explorando nuevas formas de conectar el código con la inteligencia artificial y la ciencia de datos.
 
 * 🚀 Enfoque Actual y Desarrollo
 * 🧠 **IA & Deep Learning** Architecting and optimizing supervised learning models, with a special focus on fine-tuning and efficiency improvement
